@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Springboot<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working as Software Developer<br>👯 I’m looking to collaborate<br>🤝 I’m looking for help with<br>🌱 I’m currently working on Springboot<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
